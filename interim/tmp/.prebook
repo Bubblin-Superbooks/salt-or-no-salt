@@ -1,23 +1,15 @@
 [
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/salt-or-no-salt/master/assets/images/cover.jpg"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Salt ...<br>OR NO SALT...."
-  },
-  {
-    "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/salt-or-no-salt/master/assets/images/p0.jpg"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "America’s New Table Seasoning"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/salt-or-no-salt/master/assets/images/p0a.jpg"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "AMERICA’S NEW TABLE SEASONING"
   },
   {
     "tag": "p",
@@ -44,144 +36,29 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/salt-or-no-salt/master/assets/images/p1.jpg"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Soups"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Salads"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Fish"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Vegetables"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Fruit Juices"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Stewed Fruits"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "STEAKS & CHOPS"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Fresh Fruit"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Vegetable Juices"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Appetizers"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Ground Meats"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Frozen Orange Juice"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Liver"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Chicken"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Sea Food"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Roasts"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Melons"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Desserts"
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "SOUPS",
+        "SALADS",
+        "FISH",
+        "VEGETABLES",
+        "FRUIT JUICES",
+        "STEWED FRUITS",
+        "STEAKS & CHOPS",
+        "FRESH FRUIT",
+        "VEGETABLE JUICES",
+        "APPETIZERS",
+        "GROUND MEATS",
+        "FROZEN ORANGE JUICE",
+        "LIVER",
+        "CHICKEN",
+        "SEA FOOD",
+        "ROASTS",
+        "MELONS",
+        "DESSERTS"
+      ]
+    }
   },
   {
     "tag": "p",
@@ -329,11 +206,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>Lean beef—squeeze lemon juice on the meat, sprinkle with dry mustard and pepper.\nHamburger patties—season by squeezing lemon juice right into the meat before cooking and add chopped onion.\nLean pork chops—sprinkle with lemon juice and dust with paprika before cooking.\nLiver—broil, but before turning, brush with a mixture of lemon juice, butter </p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>Chicken breast—sprinkle on a little paprika for color, baste with lemon juice, butter </p>"
+    "innerHtml": "<p>Lean beef—squeeze lemon juice on the meat, sprinkle with dry mustard and pepper.\nHamburger patties—season by squeezing lemon juice right into the meat before cooking and add chopped onion.\nLean pork chops—sprinkle with lemon juice and dust with paprika before cooking.\nLiver—broil, but before turning, brush with a mixture of lemon juice, butter \nChicken breast—sprinkle on a little paprika for color, baste with lemon juice, butter </p>"
   },
   {
     "tag": "img",
@@ -368,24 +241,16 @@
     "innerHtml": "Variations—to basic mix add:"
   },
   {
-    "tag": "h5",
-    "innerHtml": "1 Tablespoon Chopped Fresh Parsley ... For Sandwich Spread; Also Fine For Meats And Vegetables Too."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "1 Tablespoon Chopped Fresh Herbs Or 1-1/2 Teaspoons Approved Dried Herbs ... Use On Meats And Vegetables; Vary Amounts To Individual Taste."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "1 Tablespoon Grated Onion Or Chopped Chives ... Excellent On Baked Potato; Try Also On Green Beans And Squash."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "1/2 Teaspoon Dry Mustard And 1/4 Teaspoon Marjoram ... Very Good On Steamed Cabbage."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "1/2 Teaspoon Nutmeg ... Good On Cooked Carrots."
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "1 tablespoon chopped fresh parsley ... for sandwich spread; also fine for meats and vegetables too.",
+        "1 tablespoon chopped fresh herbs or 1-1/2 teaspoons approved dried herbs ... use on meats and vegetables; vary amounts to individual taste.",
+        "1 tablespoon grated onion or chopped chives ... excellent on baked potato; try also on green beans and squash.",
+        "1/2 teaspoon dry mustard and 1/4 teaspoon marjoram ... very good on steamed cabbage.",
+        "1/2 teaspoon nutmeg ... good on cooked carrots."
+      ]
+    }
   },
   {
     "tag": "img",
@@ -398,57 +263,5 @@
   {
     "tag": "hr",
     "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "The Low Sodium Cook Book"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Special Sunkist Edition"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Alma Smith Payne And Dorothy Callahan"
-  },
-  {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/salt-or-no-salt/master/assets/images/p5.jpg"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Introduced last year, <em>The Low Sodium Cook Book</em> has been enthusiastically received by patients and doctors as the most complete and authoritative cook book of its type ever published."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Because of the growing popularity of fresh lemons as a table seasoning substitute for salt, Sunkist has made a quantity purchase of this cook book. Regularly selling for $4.00 in bookstores, Sunkist is making it available at the amazingly low price of only $1.25."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "If you, or someone in your family, is on a prescribed low-salt or low-sodium diet, you’ll find this 480-page book an invaluable aid in making meals palatable and interesting."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "While supplies last, you can order this cook book by sending $1.25, preferably by check or money order, to Sunkist, Box 2706, Terminal Annex, Los Angeles 54, California."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "FRESH Sunkist LEMONS<br>CALIFORNIA-ARIZONA"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Only Fresh Lemons Give The True Lemon Flavor"
   }
 ]

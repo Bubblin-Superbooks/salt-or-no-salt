@@ -17,5 +17,6 @@
   },
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/salt-or-no-salt/master/assets",
-  "book_id": 1219
+  "book_id": 1219,
+  "book_url": "https://bubblin.io/book/salt-or-no-salt-by-anonymous"
 }
